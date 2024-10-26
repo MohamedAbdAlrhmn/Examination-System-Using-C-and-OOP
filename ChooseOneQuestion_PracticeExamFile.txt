@@ -1,0 +1,36 @@
+Header: Choose the correct answer.
+Body: Which of the following languages is known for its use in data science and machine learning?
+Marks: 5
+Category: Programming Languages
+Available options for this question
+option 1. Java 
+option 2. Python 
+option 3. C# 
+option 4. JavaScript 
+Correct option for this question :  Python
+============================================
+
+Header: Choose the correct answer.
+Body: Which language is statically typed?
+Marks: 5
+Category: Programming Languages
+Available options for this question
+option 1. Python 
+option 2. Ruby 
+option 3. Java 
+option 4. JavaScript 
+Correct option for this question :  Java
+============================================
+
+Header: Choose the correct answer.
+Body: Which programming language is known for its use in developing iOS applications?
+Marks: 5
+Category: Programming Languages
+Available options for this question
+option 1. Java 
+option 2. Swift 
+option 3. PHP 
+option 4. C# 
+Correct option for this question :  Swift
+============================================
+

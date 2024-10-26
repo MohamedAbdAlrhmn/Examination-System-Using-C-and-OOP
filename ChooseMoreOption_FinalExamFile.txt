@@ -1,0 +1,76 @@
+Header: Select all that apply.
+Body: Which of the following are programming languages?
+Marks: 10
+Category: Programming Languages
+Available options for this question :
+Option 1. Python 
+Option 2. HTML 
+Option 3. C# 
+Option 4. CSS 
+Correct options for this question : 
+ Option 1. Python
+ Option 3. C#
+
+============================================
+
+Header: Select all that apply.
+Body: Which of the following are statically typed languages?
+Marks: 10
+Category: Programming Languages
+Available options for this question :
+Option 1. Python 
+Option 2. Java 
+Option 3. Ruby 
+Option 4. C# 
+Correct options for this question : 
+ Option 2. Java
+ Option 4. C#
+
+============================================
+
+Header: Select all that apply.
+Body: Which of the following are used primarily for web development?
+Marks: 10
+Category: Programming Languages
+Available options for this question :
+Option 1. JavaScript 
+Option 2. C++ 
+Option 3. PHP 
+Option 4. Java 
+Correct options for this question : 
+ Option 1. JavaScript
+ Option 3. PHP
+
+============================================
+
+Header: Select all that apply.
+Body: Which of the following are object-oriented programming languages?
+Marks: 10
+Category: Programming Languages
+Available options for this question :
+Option 1. Python 
+Option 2. HTML 
+Option 3. Java 
+Option 4. CSS 
+Correct options for this question : 
+ Option 1. Python
+ Option 3. Java
+
+============================================
+
+Header: Select all that apply.
+Body: Which of the following are scripting languages?
+Marks: 10
+Category: Programming Languages
+Available options for this question :
+Option 1. JavaScript 
+Option 2. Python 
+Option 3. C++ 
+Option 4. Ruby 
+Correct options for this question : 
+ Option 1. JavaScript
+ Option 2. Python
+ Option 4. Ruby
+
+============================================
+

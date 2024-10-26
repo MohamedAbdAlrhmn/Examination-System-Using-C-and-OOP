@@ -1,0 +1,300 @@
+Header: This is a true or false question.
+Body: Is Python a statically typed language?
+Marks: 5
+Category: Computer Science
+
+Header: This is a true or false question.
+Body: Does HTML stand for HyperText Markup Language?
+Marks: 5
+Category: Computer Science
+
+Header: This is a true or false question.
+Body: Is JavaScript the same as Java?
+Marks: 5
+Category: Computer Science
+
+Header: This is a true or false question.
+Body: Does CSS stand for Cascading Style Sheets?
+Marks: 5
+Category: Computer Science
+
+Header: This is a true or false question.
+Body: Is C# a derivative of C++?
+Marks: 5
+Category: Computer Science
+
+Header: Choose the correct answer.
+Body: Which language is primarily used for web development?
+Marks: 5
+Category: Computer Science
+
+Header: Choose the correct answer.
+Body: Which of the following is a database management system?
+Marks: 5
+Category: Computer Science
+
+Header: Choose the correct answer.
+Body: What does RAM stand for?
+Marks: 5
+Category: Computer Science
+
+Header: Choose the correct answer.
+Body: Which language is used for creating Android apps ? 
+Marks: 5
+Category: Computer Science
+
+Header: Choose the correct answer.
+Body: Which of the following is a version control system?
+Marks: 5
+Category: Computer Science
+
+Header: Select all that apply.
+Body: Which of the following are programming languages?
+Marks: 10
+Category: Computer Science
+
+Header: Select all that apply.
+Body: Which of the following are NoSQL databases?
+Marks: 10
+Category: Computer Science
+
+Header: Select all that apply.
+Body: Which of the following are frontend frameworks?
+Marks: 10
+Category: Computer Science
+
+Header: Select all that apply.
+Body: Which of the following are cloud service providers?
+Marks: 10
+Category: Computer Science
+
+Header: Select all that apply.
+Body: Which of the following are considered as agile methodologies?
+Marks: 10
+Category: Computer Science
+
+Header: This is a true or false question.
+Body: Is Python a statically typed language?
+Marks: 5
+Category: Computer Science
+
+Header: This is a true or false question.
+Body: Does HTML stand for HyperText Markup Language?
+Marks: 5
+Category: Computer Science
+
+Header: This is a true or false question.
+Body: Is JavaScript the same as Java?
+Marks: 5
+Category: Computer Science
+
+Header: This is a true or false question.
+Body: Does CSS stand for Cascading Style Sheets?
+Marks: 5
+Category: Computer Science
+
+Header: This is a true or false question.
+Body: Is C# a derivative of C++?
+Marks: 5
+Category: Computer Science
+
+Header: Choose the correct answer.
+Body: Which language is primarily used for web development?
+Marks: 5
+Category: Computer Science
+
+Header: Choose the correct answer.
+Body: Which of the following is a database management system?
+Marks: 5
+Category: Computer Science
+
+Header: Choose the correct answer.
+Body: What does RAM stand for?
+Marks: 5
+Category: Computer Science
+
+Header: Choose the correct answer.
+Body: Which language is used for creating Android apps ? 
+Marks: 5
+Category: Computer Science
+
+Header: Choose the correct answer.
+Body: Which of the following is a version control system?
+Marks: 5
+Category: Computer Science
+
+Header: Select all that apply.
+Body: Which of the following are programming languages?
+Marks: 10
+Category: Computer Science
+
+Header: Select all that apply.
+Body: Which of the following are NoSQL databases?
+Marks: 10
+Category: Computer Science
+
+Header: Select all that apply.
+Body: Which of the following are frontend frameworks?
+Marks: 10
+Category: Computer Science
+
+Header: Select all that apply.
+Body: Which of the following are cloud service providers?
+Marks: 10
+Category: Computer Science
+
+Header: Select all that apply.
+Body: Which of the following are considered as agile methodologies?
+Marks: 10
+Category: Computer Science
+
+Header: This is a true or false question.
+Body: Is Python a statically typed language?
+Marks: 5
+Category: Computer Science
+
+Header: This is a true or false question.
+Body: Does HTML stand for HyperText Markup Language?
+Marks: 5
+Category: Computer Science
+
+Header: This is a true or false question.
+Body: Is JavaScript the same as Java?
+Marks: 5
+Category: Computer Science
+
+Header: This is a true or false question.
+Body: Does CSS stand for Cascading Style Sheets?
+Marks: 5
+Category: Computer Science
+
+Header: This is a true or false question.
+Body: Is C# a derivative of C++?
+Marks: 5
+Category: Computer Science
+
+Header: Choose the correct answer.
+Body: Which language is primarily used for web development?
+Marks: 5
+Category: Computer Science
+
+Header: Choose the correct answer.
+Body: Which of the following is a database management system?
+Marks: 5
+Category: Computer Science
+
+Header: Choose the correct answer.
+Body: What does RAM stand for?
+Marks: 5
+Category: Computer Science
+
+Header: Choose the correct answer.
+Body: Which language is used for creating Android apps ? 
+Marks: 5
+Category: Computer Science
+
+Header: Choose the correct answer.
+Body: Which of the following is a version control system?
+Marks: 5
+Category: Computer Science
+
+Header: Select all that apply.
+Body: Which of the following are programming languages?
+Marks: 10
+Category: Computer Science
+
+Header: Select all that apply.
+Body: Which of the following are NoSQL databases?
+Marks: 10
+Category: Computer Science
+
+Header: Select all that apply.
+Body: Which of the following are frontend frameworks?
+Marks: 10
+Category: Computer Science
+
+Header: Select all that apply.
+Body: Which of the following are cloud service providers?
+Marks: 10
+Category: Computer Science
+
+Header: Select all that apply.
+Body: Which of the following are considered as agile methodologies?
+Marks: 10
+Category: Computer Science
+
+Header: This is a true or false question.
+Body: Is Python a statically typed language?
+Marks: 5
+Category: Computer Science
+
+Header: This is a true or false question.
+Body: Does HTML stand for HyperText Markup Language?
+Marks: 5
+Category: Computer Science
+
+Header: This is a true or false question.
+Body: Is JavaScript the same as Java?
+Marks: 5
+Category: Computer Science
+
+Header: This is a true or false question.
+Body: Does CSS stand for Cascading Style Sheets?
+Marks: 5
+Category: Computer Science
+
+Header: This is a true or false question.
+Body: Is C# a derivative of C++?
+Marks: 5
+Category: Computer Science
+
+Header: Choose the correct answer.
+Body: Which language is primarily used for web development?
+Marks: 5
+Category: Computer Science
+
+Header: Choose the correct answer.
+Body: Which of the following is a database management system?
+Marks: 5
+Category: Computer Science
+
+Header: Choose the correct answer.
+Body: What does RAM stand for?
+Marks: 5
+Category: Computer Science
+
+Header: Choose the correct answer.
+Body: Which language is used for creating Android apps ? 
+Marks: 5
+Category: Computer Science
+
+Header: Choose the correct answer.
+Body: Which of the following is a version control system?
+Marks: 5
+Category: Computer Science
+
+Header: Select all that apply.
+Body: Which of the following are programming languages?
+Marks: 10
+Category: Computer Science
+
+Header: Select all that apply.
+Body: Which of the following are NoSQL databases?
+Marks: 10
+Category: Computer Science
+
+Header: Select all that apply.
+Body: Which of the following are frontend frameworks?
+Marks: 10
+Category: Computer Science
+
+Header: Select all that apply.
+Body: Which of the following are cloud service providers?
+Marks: 10
+Category: Computer Science
+
+Header: Select all that apply.
+Body: Which of the following are considered as agile methodologies?
+Marks: 10
+Category: Computer Science
+

@@ -1,0 +1,21 @@
+Header: This is a true or false question.
+Body: Is Python a statically typed language?
+Marks: 5
+Category: Programming Languages
+Question Correct Answer : False
+============================================
+
+Header: This is a true or false question.
+Body: Is JavaScript the same as Java?
+Marks: 5
+Category: Programming Languages
+Question Correct Answer : False
+============================================
+
+Header: This is a true or false question.
+Body: Is C# a derivative of C++?
+Marks: 5
+Category: Programming Languages
+Question Correct Answer : True
+============================================
+

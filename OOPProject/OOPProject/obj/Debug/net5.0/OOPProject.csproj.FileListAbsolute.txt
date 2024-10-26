@@ -1,0 +1,15 @@
+E:\مبادره رواد مصر الرقميه\C#\C# Project\OOPProject\OOPProject\bin\Debug\net5.0\OOPProject.exe
+E:\مبادره رواد مصر الرقميه\C#\C# Project\OOPProject\OOPProject\bin\Debug\net5.0\OOPProject.deps.json
+E:\مبادره رواد مصر الرقميه\C#\C# Project\OOPProject\OOPProject\bin\Debug\net5.0\OOPProject.runtimeconfig.json
+E:\مبادره رواد مصر الرقميه\C#\C# Project\OOPProject\OOPProject\bin\Debug\net5.0\OOPProject.runtimeconfig.dev.json
+E:\مبادره رواد مصر الرقميه\C#\C# Project\OOPProject\OOPProject\bin\Debug\net5.0\OOPProject.dll
+E:\مبادره رواد مصر الرقميه\C#\C# Project\OOPProject\OOPProject\bin\Debug\net5.0\OOPProject.pdb
+E:\مبادره رواد مصر الرقميه\C#\C# Project\OOPProject\OOPProject\obj\Debug\net5.0\OOPProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\مبادره رواد مصر الرقميه\C#\C# Project\OOPProject\OOPProject\obj\Debug\net5.0\OOPProject.AssemblyInfoInputs.cache
+E:\مبادره رواد مصر الرقميه\C#\C# Project\OOPProject\OOPProject\obj\Debug\net5.0\OOPProject.AssemblyInfo.cs
+E:\مبادره رواد مصر الرقميه\C#\C# Project\OOPProject\OOPProject\obj\Debug\net5.0\OOPProject.csproj.CoreCompileInputs.cache
+E:\مبادره رواد مصر الرقميه\C#\C# Project\OOPProject\OOPProject\obj\Debug\net5.0\OOPProject.dll
+E:\مبادره رواد مصر الرقميه\C#\C# Project\OOPProject\OOPProject\obj\Debug\net5.0\refint\OOPProject.dll
+E:\مبادره رواد مصر الرقميه\C#\C# Project\OOPProject\OOPProject\obj\Debug\net5.0\OOPProject.pdb
+E:\مبادره رواد مصر الرقميه\C#\C# Project\OOPProject\OOPProject\obj\Debug\net5.0\OOPProject.genruntimeconfig.cache
+E:\مبادره رواد مصر الرقميه\C#\C# Project\OOPProject\OOPProject\obj\Debug\net5.0\ref\OOPProject.dll
